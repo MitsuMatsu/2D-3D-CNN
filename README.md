@@ -5,9 +5,13 @@ A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dim
 
 | DNS | ML |
 |:---:|:---:|
-| <img src="image/DNS.png" width="360px"> | <img src="image/5sec.png" width="380px"> |
+| <img src="image/DNS.png" width="340px"> | <img src="image/5sec.png" width="360px"> |
 
 Flows around a square cylinder computed by direct numerical simulation (DNS) and estimated by ML from 5 cross-sections.
+
+| Original | Adaptive sampling |
+| <img src="image/compare1.png" width="200px"> | |
+Application of the adaptive sampling.
 
 # Information
   Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
