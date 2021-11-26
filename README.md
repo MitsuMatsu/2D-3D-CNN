@@ -13,7 +13,7 @@ Flows around a square cylinder computed by direct numerical simulation (DNS) and
 |:---:|:---:|
 | <img src="image/original.png" width="200px"> | <img src="image/adaptive.png" width="200px"> |
 
-Example of adaptive sampled field. 
+Example of adaptive-sampled field. 
 
 # Information
   Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
