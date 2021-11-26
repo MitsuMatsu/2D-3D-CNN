@@ -36,7 +36,7 @@ Thrw2 = 0.05        # the 2nd threshold of w component
 uvw3D_field: time=1000, nx =256, ny=128, nz=160, components=3
 '''
 
-# Calculate the standard deviation of the velocity within each cross-section
+# Calculate the standard deviation of the velocity
 uvw_std = np.zeros((len(datasetSerial),int(nx/alpha),int(ny/alpha),nz,comp))
 x_st = 0
 x_ed = alpha
@@ -332,7 +332,7 @@ for tt in tqdm(range(len(datasetSerial))):
                         aw[tt,xx,yy+1,zz]=1
                         aw[tt,xx+1,yy+1,zz]=1
               
-# Remake the adaptive sampled-field to the original domain size
+# Extend the adaptive sampled-field to the original domain size
 Adaptive_field = np.zeros((len(datasetSerial),nx,ny,nz,comp))
 for tt in range(num_ts):
     for cc in range(comp):
