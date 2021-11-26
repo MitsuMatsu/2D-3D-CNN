@@ -13,7 +13,7 @@ Flows around a square cylinder computed by direct numerical simulation (DNS) and
 |:---:|:---:|
 | <img src="image/original.png" width="200px"> | <img src="image/adaptive.png" width="200px"> |
 
-Application of adaptive sampled field.
+Application of adaptive sampled field. 
 
 # Information
   Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
@@ -29,6 +29,7 @@ Authors provide no guarantees for this code. Use as-is and for academic research
 - Keras  
 - Tensorflow  
 - sklearn
+- numpy
 
 # Reference
 M. Matsuo, T. Nakamura, M. Morimoto, K. Fukami, K. Fukagata, ``Supervised convolutional network for three-dimensional fluid data reconstruction from sectional flow fields with adaptive super-resolution assistance," 2021 (preprint, [arXiv:2103.09020 [physics.flu-dyn]](https://arxiv.org/abs/2103.09020))
