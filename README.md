@@ -6,7 +6,7 @@ A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dim
 # Information
 Authour: Mitsuaki Matsuo (Keio university)
 
-This repository contains a sample py file: 2D-3D CNN.py 
+This repository contains a sample py file: 2D-3D-CNN.py 
 
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 
