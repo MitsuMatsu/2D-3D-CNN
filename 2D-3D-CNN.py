@@ -1,8 +1,20 @@
 '''
-2D-3D Convolutional Neural Networks
+# 2D-3D-CNN.py
+# 2021 M. Matsuo
+
+## 2D-3D Convolutional Neural Networks
+## Author: Mitsuaki Matsuo (Keio University)
+
+## Authors provide no guarantees for this code.  Use as-is and for academic research use only; no commercial use allowed without permission. For citations, please use the reference below:
+# Ref: M. Matsuo, T. Nakamura, M. Morimoto, K. Fukami, K. Fukagata,
+#     "Supervised convolutional network for three-dimensional fluid data reconstruction from sectional flow fields with adaptive super-resolution assistance,"
+#     in Review, arXiv preprint, arXiv:2103.09020, 2021
+#
+# The code is written for educational clarity and not for speed.
+# -- version 1: Nov 25, 2021
 '''
 
-# To run this code, a listed modules are required
+# To run this code, listed modules are required
 from keras.layers import Input,Conv2D, Conv3D, MaxPooling2D, UpSampling3D, Reshape
 from keras.models import Model
 from sklearn.model_selection import train_test_split
