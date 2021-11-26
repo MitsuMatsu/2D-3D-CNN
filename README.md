@@ -10,8 +10,9 @@ A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dim
 Flows around a square cylinder computed by direct numerical simulation (DNS) and estimated by ML from 5 cross-sections.
 
 | Original | Adaptive sampling |
-| <img src="image/compare1.png" width="200px"> | |
-Application of the adaptive sampling.
+|:---:|:---:|
+| <img src="image/original.png" width="200px"> | <img src="image/adaptive.png" width="200px"> |
+Application of adaptive sampled field.
 
 # Information
   Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
