@@ -21,3 +21,6 @@ Authors provide no guarantees for this code. Use as-is and for academic research
 - Keras  
 - Tensorflow  
 - sklearn
+
+# Reference
+M. Matsuo, T. Nakamura, M. Morimoto, K. Fukami, K. Fukagata, ``Supervised convolutional network for three-dimensional fluid data reconstruction from sectional flow fields with adaptive super-resolution assistance," 2021 (preprint, [arXiv:2103.09020 [physics.flu-dyn]](https://arxiv.org/abs/2103.09020))
