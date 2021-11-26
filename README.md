@@ -3,7 +3,7 @@ This repository contains a sample source code utilized in a part of "Supervised 
 
 A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dimensional cross-sections. 
 
-
+![Schematic of 2D-3D CNN](image/model.png "model")
 
 # Information
   Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
