@@ -5,7 +5,7 @@ A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dim
 
 | DNS | ML |
 |:---:|:---:|
-| <img src="image/DNS.png" width="380px"> | <img src="image/5sec.png" width="380px"> |
+| <img src="image/DNS.png" width="360px"> | <img src="image/5sec.png" width="380px"> |
 
 Flows around a square cylinder computed by direct numerical simulation (DNS) and estimated by ML from 5 cross-sections.
 
