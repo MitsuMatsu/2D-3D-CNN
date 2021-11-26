@@ -4,7 +4,7 @@ This repository contains a sample source code utilized in a part of "Supervised 
 A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dimensional cross-sections. 
 
 # Information
-Authour: Mitsuaki Matsuo (Keio university)
+  Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
 
 This repository contains a sample py file: 2D-3D-CNN.py 
 
