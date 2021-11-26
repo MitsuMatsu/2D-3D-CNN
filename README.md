@@ -3,7 +3,7 @@ This repository contains a sample source code utilized in a part of "Supervised 
 
 A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dimensional cross-sections. 
 
-| Reference | ML |
+| DNS | ML |
 |:---:|:---:|
 | <img src="image/DNS.png" width="380px"> | <img src="image/5sec.png" width="380px"> |
 
