@@ -1,7 +1,9 @@
 # 2D-3D CNN for three-dimensional reconstrcution from two-dimentional cross-sections of fluid flows
-This repository contains a sample source code utilized in a part of "Supervised convolutional network for three-dimensional fluid data reconstrcution from sectional flow fields with adaptive super-resolution assistance," ~~Journal of Computational Physics, 202?~~, preprint: [arXiv:2103.09020, 2021](https://arxiv.org/abs/2103.09020)
+This repository contains a sample source code utilized in a part of "Supervised convolutional network for three-dimensional fluid data reconstrcution from sectional flow fields with adaptive super-resolution assistance," preprint: [arXiv:2103.09020, 2021](https://arxiv.org/abs/2103.09020)
 
 A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dimensional cross-sections. 
+
+
 
 # Information
   Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
