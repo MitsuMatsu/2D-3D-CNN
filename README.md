@@ -12,7 +12,9 @@ Flows around a square cylinder computed by direct numerical simulation (DNS) and
 # Information
   Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
 
-This repository contains a sample py file: 2D-3D-CNN.py 
+This repository contains 
+- 2D-3D-CNN.py
+- Adaptive-sampling.py 
 
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 
