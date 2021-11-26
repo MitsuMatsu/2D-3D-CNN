@@ -62,7 +62,7 @@ for zz in tqdm(range(nz)):
             
 # ========================================== Adaptive sampling ========================================== #
 # === U component === #
-au = np.zeros((len(datasetSerial),int(nx/alpha),int(ny/alpha),nz),dtype='float32)
+au = np.zeros((len(datasetSerial),int(nx/alpha),int(ny/alpha),nz),dtype='float32) # Represents the geometry information
 for tt in range(len(datasetSerial)):
     for zz in range(nz):
         for xx in range(int(nx/alpha-(alpha3-1))):
