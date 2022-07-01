@@ -16,7 +16,7 @@ Flows around a square cylinder computed by direct numerical simulation (DNS) and
 Example of a adaptive-sampled field. 
 
 # Information
-  Authour: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
+  Author: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
 
 This repository contains 
 - 2D-3D-CNN.py
