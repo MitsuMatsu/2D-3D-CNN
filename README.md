@@ -1,7 +1,7 @@
 # 2D-3D CNN for three-dimensional reconstrcution from two-dimentional cross-sections of fluid flows
-This repository contains sample source codes utilized in a part of "Supervised convolutional network for three-dimensional fluid data reconstrcution from sectional flow fields with adaptive super-resolution assistance," preprint: [arXiv:2103.09020, 2021](https://arxiv.org/abs/2103.09020)
+This repository contains sample source codes utilized in a part of "Reconstructing three-dimensional bluff body wake from sectional flow fields with convolutional neural networks," SN Computer Science, accepted, 2024: [arXiv:2103.09020, 2021](https://arxiv.org/abs/2103.09020)
 
-A 2D-3D CNN is trained to estimate three-dimensional flow field from its two-dimensional cross-sections. 
+A 2D-3D CNN is trained to estimate a three-dimensional flow field from its two-dimensional cross-sections. 
 
 | DNS | ML |
 |:---:|:---:|
@@ -13,10 +13,10 @@ Flows around a square cylinder computed by direct numerical simulation (DNS) and
 |:---:|:---:|
 | <img src="image/original.png" width="250px"> | <img src="image/adaptive.png" width="250px"> |
 
-Example of a adaptive-sampled field. 
+Example of an adaptive-sampled field. 
 
 # Information
-  Author: Mitsuaki Matsuo ([Keio university](https://kflab.jp/en/))
+  Author: Mitsuaki Matsuo ([Keio University](https://kflab.jp/en/)) and [Kai Fukami](https://sites.google.com/view/kai-fukami/home?authuser=0)
 
 This repository contains 
 - 2D-3D-CNN.py
@@ -33,4 +33,4 @@ Authors provide no guarantees for this code. Use as-is and for academic research
 - skimage
 
 # Reference
-M. Matsuo, T. Nakamura, M. Morimoto, K. Fukami, K. Fukagata, ``Supervised convolutional network for three-dimensional fluid data reconstruction from sectional flow fields with adaptive super-resolution assistance," 2021 (preprint, [arXiv:2103.09020 [physics.flu-dyn]](https://arxiv.org/abs/2103.09020))
+M. Matsuo, K. Fukami, T. Nakamura, M. Morimoto, K. Fukagata, "Reconstructing three-dimensional bluff body wake from sectional flow fields with convolutional neural networks," SN Computer Science, accepted, 2024 (preprint: [arXiv:2103.09020 [physics.flu-dyn]](https://arxiv.org/abs/2103.09020))
