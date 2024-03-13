@@ -1,5 +1,5 @@
 # 2D-3D CNN for three-dimensional reconstrcution from two-dimentional cross-sections of fluid flows
-This repository contains sample source codes utilized in a part of "Reconstructing three-dimensional bluff body wake from sectional flow fields with convolutional neural networks," SN Computer Science, accepted, 2024: [arXiv:2103.09020, 2021](https://arxiv.org/abs/2103.09020)
+This repository contains sample source codes utilized in a part of "Reconstructing three-dimensional bluff body wake from sectional flow fields with convolutional neural networks," [SN Computer Science, 5, 306, 2024](https://link.springer.com/article/10.1007/s42979-024-02602-0): [arXiv:2103.09020, 2021](https://arxiv.org/abs/2103.09020)
 
 A 2D-3D CNN is trained to estimate a three-dimensional flow field from its two-dimensional cross-sections. 
 
